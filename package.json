@@ -29,7 +29,7 @@
     "function-bind": "^1.1.1",
     "glob-parent": "^6.0.2",
     "has": "^1.0.3",
-    "is-binary-path": "^2.1.0",
+    "is-binary-path": "^3.0.0",
     "is-core-module": "^2.11.0",
     "is-extglob": "^2.1.1",
     "is-glob": "^4.0.3",
